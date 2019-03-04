@@ -1,1 +1,16 @@
+# AI Demos
+* Platform: Editor
+* Language: C#
+A collection of mixed AI practice pieces
 
+# What I Learned
+* Waypoint Navigation
+* A-star Naviation
+* NavMeshes & Multiple NavMeshes
+* Crowd Logic
+* Flee Logic
+* Flocking Algorithms
+* Finite State Machines controlling Animation, Guided by a NavMesh & Waypoints
+* Behavioral Trees
+* Line of Sight
+* Goal Oriented ACtion Planning
